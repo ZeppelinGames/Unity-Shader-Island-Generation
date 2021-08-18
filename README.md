@@ -5,12 +5,16 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
+![IslandGeneration](https://user-images.githubusercontent.com/31507417/129889080-92996d57-2256-4e03-87c9-7d29ac34ada5.gif)
+
 ## Description
 Simple island generation using shader graph (LWRP) in Unity.
 
 ## Usage
 Download the latest release from [Releases](https://github.com/ZeppelinGames/Unity-Shader-Island-Generation/releases) or clone/download the full project above.
 <br> Open up the demo scene and mess around with the UI parameters, edit the shader graph, add palettes, do whatever.
+
+![IslandPalettes](https://user-images.githubusercontent.com/31507417/129889139-8361d37b-f7d1-4b58-a040-baacb8070e1d.gif)
 
 ## License
 This project is licensed under the [MIT] License - see the [LICENSE.md](https://github.com/ZeppelinGames/Unity-Shader-Island-Generation/blob/main/LICENSE) file for details
